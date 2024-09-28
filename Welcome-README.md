@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning how to use CNNs for image recognition. I am trying to classify medical images into 6 different categories for my school project
 - 💞️ I’m looking to collaborate on interesting image classification problems, I would like to explore some unqie datasets
 - 📫 Reach me on LinkedIn: https://www.linkedin.com/in/danielemendozapautt/ or my website: https://danieleanalyticslab.com
-- ⚡ Fun fact: I have lived in 10 cities in 26 years of age!
+- ⚡ Fun fact: I have lived in 10 cities at 26 years of age!
 
 <!---
 dans-analytics-lab/dans-analytics-lab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
